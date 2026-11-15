@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<div class="empty error-page"><span>{{ code }}</span><h1>{{ message|replace('CloudLock', 'Pink Cloud')|replace('CloudVault', 'Pink Cloud') }}</h1><a class="button" href="{{ url_for('auth.home') }}">Return home</a></div>{% endblock %}
