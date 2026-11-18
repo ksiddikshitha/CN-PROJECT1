@@ -1,4 +1,4 @@
-# CloudLock
+# PINK CLOUD
 **Your Files. Your Space. Your Security.** A local-first file management and sharing system for a Computer Networks project.
 
 ## Features
